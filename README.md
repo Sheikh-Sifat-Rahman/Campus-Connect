@@ -1,6 +1,6 @@
 # Campus-Connect
 Campus Connect is a student management system project using the C programming language.  
-This project holds  
+Project specifications:-    
 -Student information  
 -Searching student by their information  
 -Announcements
