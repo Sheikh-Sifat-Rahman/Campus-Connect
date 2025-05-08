@@ -13,10 +13,3 @@
 - C Programming Language
 - Standard File I/O
 
-## Getting Started
-
-To run the project:
-
-1. Clone the repository:
-   ```bash
-     https://github.com/Sheikh-Sifat-Rahman/Campus-Connect.git
